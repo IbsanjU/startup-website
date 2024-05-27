@@ -1,0 +1,6 @@
+Github repository links:
+
+
+website: https://github.com/IbsanjU/startup-website/
+
+magazine: https://github.com/IbsanjU/MAD105-WD-Assignment-3
